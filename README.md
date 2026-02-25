@@ -11,8 +11,7 @@ A SQLMap GUI Python Script, compatible Burp Suite extension that provides a GUI 
 - Parameter targeting (-p)
 - Headers / Cookies / POST body support
 - Multi-select --technique
-- Enumeration panel (collapsible)
-- Dark mode compatible
+- Enumeration panel 
 - Wrapped console output
 - Scroll lock
 - Timestamped output
