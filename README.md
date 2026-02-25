@@ -74,7 +74,7 @@ SQLMAP_PY  = r"C:\Path\To\sqlmap.py"
 This extension was developed and tested using intentionally vulnerable training platforms provided by:
 
 - PortSwigger Web Security Academy
-  https://portswigger.net/web-security
+  <br>https://portswigger.net/web-security
 
 ## Responsible Usage
 
@@ -91,7 +91,7 @@ This tool is intended strictly for educational purposes and authorized penetrati
 This project builds upon concepts and community research in integrating Burp Suite with sqlmap:
 
 - Yousef Alotaibi, *Burp Suite Integration with SQLMap*
-  https://medium.com/@YousefAlotaibi/burp-suite-integration-with-sqlmap-8ee7c65e2a1e
+  <br>https://medium.com/@YousefAlotaibi/burp-suite-integration-with-sqlmap-8ee7c65e2a1e
 
 - sqlmap Official Repository
-  https://github.com/sqlmapproject/sqlmap
+  <br>https://github.com/sqlmapproject/sqlmap
