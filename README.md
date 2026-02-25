@@ -28,17 +28,14 @@ A compact, compatible Burp Suite extension that provides a GUI for sqlmap on Win
 
 Before using the extension, make sure these requirements are met:
 
-1. SQLmap must be installed on your system. 
-<br>Note: Make sure to clone it outside OneDrive.
+1. SQLmap must be installed on your system. Note: Make sure to clone it outside OneDrive.
 ```
 git clone https://github.com/sqlmapproject/sqlmap
 ```
-2. Jython must be configured in Burp Suite. 
-<br>Go to Settings > Extensions > Python environment and set the Jython standalone JAR file path.
+2. Jython must be configured in Burp Suite. Go to Settings > Extensions > Python environment and set the Jython standalone JAR file path.
 <img width="1335" height="388" alt="image" src="https://github.com/user-attachments/assets/8ea11cae-8b7b-41f8-9914-f1c5446749d4" />
 
-3. SQLMapGUI Script.
-<br>Note: Make sure to clone it outside OneDrive.
+3. SQLMapGUI Script. Note: Make sure to clone it outside OneDrive.
 ```
 git clone https://github.com/pjobsina/SQLMapGUI-Burpsuite-Extension.git
 ```
@@ -71,8 +68,6 @@ SQLMAP_PY  = r"C:\Path\To\sqlmap.py"
 
 ## Example Screenshot
 <img width="1918" height="930" alt="image" src="https://github.com/user-attachments/assets/da0a0f8e-9414-40ce-91fa-659f4fc18d60" />
-
-
 
 ## Educational Testing Environment
 
