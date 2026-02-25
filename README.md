@@ -62,7 +62,6 @@ SQLMAP_PY  = r"C:\Path\To\sqlmap.py"
 
 - Use Target URL mode (-u)
 - Or right-click request → Send to SQLMap
-- Expand Enumeration panel when needed
 - Run and monitor wrapped output
 
 ## Example Screenshot
