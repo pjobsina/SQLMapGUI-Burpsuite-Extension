@@ -68,9 +68,9 @@ SQLMAP_PY  = r"C:\Path\To\sqlmap.py"
 - Run and monitor wrapped output
 
 ## Example Screenshot
+<img width="1918" height="930" alt="image" src="https://github.com/user-attachments/assets/da0a0f8e-9414-40ce-91fa-659f4fc18d60" />
 
-![alt text](image-2.png)
-![alt text](image-3.png)
+
 
 ## Educational Testing Environment
 
