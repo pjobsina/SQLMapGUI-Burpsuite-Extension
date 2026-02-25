@@ -1,6 +1,6 @@
 # SQLMap GUI (Burp Suite Extension) 
 
-A compact, compatible Burp Suite extension that provides a GUI for sqlmap on Windows 11
+A SQLMap GUI Python Script, compatible Burp Suite extension that provides a GUI for sqlmap on Windows 11
 <img width="1914" height="927" alt="image" src="https://github.com/user-attachments/assets/7a14f4c8-f8d7-4ffc-84d2-5c5771590992" />
 
 
