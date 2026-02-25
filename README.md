@@ -84,7 +84,7 @@ All testing during development was performed against:
 - Controlled test environments
 - Authorized targets only
 
-This tool is intended strictly for educational purposes and authorized penetration testing.
+This tool is intended strictly for educational purposes only.
 
 ## References
 
