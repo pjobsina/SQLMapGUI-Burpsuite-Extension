@@ -28,15 +28,14 @@ A compact, compatible Burp Suite extension that provides a GUI for sqlmap on Win
 
 Before using the extension, make sure these requirements are met:
 
-1. SQLmap must be installed on your system. Note: Make sure to clone it outside OneDrive.
+1. **SQLmap** must be installed on your system. Note: Make sure to clone it outside OneDrive.
 ```
 git clone https://github.com/sqlmapproject/sqlmap
 ```
-2. Jython must be configured in Burp Suite. Go to Settings > Extensions > Python environment and set the Jython standalone JAR file path.
+2. **Jython** must be configured in **Burp Suite**. Go to Settings > Extensions > Python environment and set the Jython standalone JAR file path.
 <img width="1331" height="378" alt="image" src="https://github.com/user-attachments/assets/c96801bc-dfcf-4f9a-bd44-36adb7c7202f" />
 
-
-3. SQLMapGUI Script. Note: Make sure to clone it outside OneDrive.
+3. **SQLMapGUI Script**. Note: Make sure to clone it outside OneDrive.
 ```
 git clone https://github.com/pjobsina/SQLMapGUI-Burpsuite-Extension.git
 ```
@@ -74,16 +73,8 @@ SQLMAP_PY  = r"C:\Path\To\sqlmap.py"
 
 This extension was developed and tested using intentionally vulnerable training platforms provided by:
 
-- PortSwigger Web Security Academy  
+- PortSwigger Web Security Academy
   https://portswigger.net/web-security
-
-The labs were used to:
-
-- Validate SQL injection detection workflows
-- Test parameter targeting with `-p`
-- Evaluate header and cookie injection scenarios
-- Verify enumeration logic (`--dbs`, `--tables`, `--columns`, `--dump`)
-- Simulate real-world attack chains in a controlled environment
 
 ## Responsible Usage
 
@@ -99,8 +90,8 @@ This tool is intended strictly for educational purposes and authorized penetrati
 
 This project builds upon concepts and community research in integrating Burp Suite with sqlmap:
 
-- Yousef Alotaibi, *Burp Suite Integration with SQLMap*  
+- Yousef Alotaibi, *Burp Suite Integration with SQLMap*
   https://medium.com/@YousefAlotaibi/burp-suite-integration-with-sqlmap-8ee7c65e2a1e
 
-- sqlmap Official Repository  
+- sqlmap Official Repository
   https://github.com/sqlmapproject/sqlmap
