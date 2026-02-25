@@ -24,7 +24,7 @@ import codecs
 import re
 
 # ===================== WINDOWS 11 CONFIG =====================
-PYTHON_EXE = r"C:\Users\pobsi\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\python.exe"
+PYTHON_EXE = r"C:\Security-Tools\python.exe"
 SQLMAP_PY  = r"C:\Security-Tools\sqlmap\sqlmap.py"
 REQ_DIR = os.path.join(tempfile.gettempdir(), "burp-sqlmap-reqs")
 # =============================================================
@@ -576,4 +576,5 @@ class BurpExtender(IBurpExtender, IContextMenuFactory, ITab):
             self.append_output("[!] SQLMap process terminated.\n", "red")
             self.proc = None
         else:
+
             self.append_output("[!] No active scan to kill.\n", "orange")
